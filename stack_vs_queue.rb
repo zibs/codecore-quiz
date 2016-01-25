@@ -17,7 +17,7 @@ class Stack
 
 end
 
-#A queue is a first in first out data structure. It is analogous to a shopping line queue; the first person there will also be the first person out. It is the inverse of FILO. We can see this
+#A queue is a first in first out data structure. It is analogous to a shopping line queue; the first person there will also be the first person out. It is the inverse of FILO.
 
 class Queue
 
